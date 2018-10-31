@@ -30,7 +30,7 @@ docker exec turtlenode pm2 logs
 ```
 
 TODO:
- - Add a web interface for minitoring, such as [pm2-gui](https://github.com/Tjatse/pm2-gui)
+ - Add a web interface for monitoring, such as [pm2-gui](https://github.com/Tjatse/pm2-gui)
  
 License
 ----
