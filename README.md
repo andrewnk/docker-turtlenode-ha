@@ -1,5 +1,7 @@
 # Docker Turtle Node
 
+This is repo has been archived. Please see check out the next iteration [here](https://github.com/andrewnk/turtlecoin-docker).
+
 This is a docker image that builds the [TurtleCoin daemon](https://github.com/turtlecoin/turtlecoin) and the [TurtleCoind High-Availability Daemon Wrapper](https://github.com/turtlecoin/turtlecoind-ha), making it easy to spin up a public node. 
 
 ### Installing and Running
